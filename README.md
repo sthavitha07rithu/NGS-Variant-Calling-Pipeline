@@ -41,6 +41,7 @@ ngs_variant_project/
 └── .gitignore
 
 
+
 Large FASTQs, BAMs, VCFs, and reference FASTA/index files are intentionally excluded with .gitignore.
 
 # Dataset
