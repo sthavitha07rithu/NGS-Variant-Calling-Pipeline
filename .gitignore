@@ -1,0 +1,17 @@
+# Ignore large sequencing data
+raw_data/
+alignment/
+variants/
+
+# Ignore reference FASTA and its indexes
+reference/*.fa
+reference/*.fa.*
+reference/*.dict
+reference/*.amb
+reference/*.ann
+reference/*.bwt
+reference/*.pac
+reference/*.sa
+
+# Ignore logs
+*.log
